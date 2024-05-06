@@ -1,0 +1,14 @@
+{
+  "name": "multiple_function",
+  "version": "1.0.1",
+  "description": "function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "Deependra Rajput",
+  "license": "ISC"
+}
